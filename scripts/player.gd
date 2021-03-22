@@ -4,13 +4,13 @@ onready var helper_x := $helper_z/helper_x
 onready var helper_z := $helper_z
 onready var body := $helper_z/helper_x/bodyhelper
 
-var speed := 0.3
+var speed := 0.4
 var steer := 1.0
 #var y_compensation := 1
 #var z_compensation := 1
 var speed_up_interval := 15.0
 var time := 0.0
-var speed_increase := 0.05
+var speed_increase := 0.06
 
 #func _physics_process(delta) -> void:
 #	var y_weight

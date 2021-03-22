@@ -12,5 +12,5 @@ points = PoolVector3Array( -0.65, 0.2, -1.03683, -0.65, 0.200939, -1.03671, -0.5
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.2, 0 )
 shape = SubResource( 1 )
 
-[node name="body2" parent="sedan" index="3"]
+[node name="body2" parent="sedan" index="2"]
 material/1 = ExtResource( 2 )
